@@ -1,0 +1,188 @@
+</style>
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <nav>
+                <div class="logo">EnerGym</div>
+                <ul>
+                    <li><a href="inicio">Inicio</a></li>
+                    <li><a href="blog">Blog</a></li>
+                    <li><a href="nosotros">Nosotros</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Sección de Inicio -->
+    <section id="inicio" class="hero">
+        <div class="hero-content">
+            <h1>Bienvenido a EnerGym</h1>
+            <p>Tu guía completa para alcanzar tus objetivos de fitness, sin importar dónde te encuentres.</p>
+            <p class="quote">"El único mal entrenamiento es el que no hiciste."</p>
+        </div>
+    </section>
+
+    <div class="container">
+        <div class="section-title">Elige tu Lugar</div>
+        <div class="card-container">
+            <a href="rutinas-casa" style="text-decoration: none;">
+                <div class="card">
+                    <h3>En Casa</h3>
+                    <p>Rutinas sin necesidad de equipo especial.</p>
+                </div>
+            </a>
+            <a href="rutinas-gimnasio" style="text-decoration: none;">
+                <div class="card">
+                    <h3>En el Gimnasio</h3>
+                    <p>Maximiza tu entrenamiento con pesas y máquinas.</p>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    <!-- Sección de Rutinas en Casa -->
+    <section id="rutinas-casa">
+        <div class="container">
+            <h2 class="section-title">Rutinas en Casa (Sin Pesas)</h2>
+            <div class="exercise-grid">
+                <!-- Ejemplo de un ejercicio de Casa: Flexiones -->
+                <div class="exercise-card">
+                    <div class="image-placeholder">
+                        <span>Imagen de Flexiones (ej. de un hombre o mujer haciendo una flexión)</span>
+                    </div>
+                    <div class="exercise-content">
+                        <h4>Flexiones</h4>
+                        <p>Fortalece el pecho, hombros y tríceps.</p>
+                        <p>Descripción detallada: Colócate en posición de plancha. Baja el cuerpo flexionando los codos hasta que el pecho casi toque el suelo. Empuja de vuelta a la posición inicial. <a href="https://example.com/video-flexiones" target="_blank">Ver video</a></p>
+                    </div>
+                </div>
+                <!-- Agrega más ejercicios de casa aquí -->
+                <div class="exercise-card">
+                    <div class="image-placeholder">
+                        <span>Imagen de Sentadillas (ej. de una persona haciendo una sentadilla)</span>
+                    </div>
+                    <div class="exercise-content">
+                        <h4>Sentadillas</h4>
+                        <p>Excelente para piernas y glúteos.</p>
+                        <p>Descripción detallada: Mantén la espalda recta y baja las caderas como si te sentaras en una silla invisible. Vuelve a subir. <a href="https://example.com/video-sentadillas" target="_blank">Ver video</a></p>
+                    </div>
+                </div>
+                <div class="exercise-card">
+                    <div class="image-placeholder">
+                        <span>Imagen de Zancadas (ej. de una persona haciendo una zancada)</span>
+                    </div>
+                    <div class="exercise-content">
+                        <h4>Zancadas</h4>
+                        <p>Trabaja los cuádriceps, glúteos y femorales.</p>
+                        <p>Descripción detallada: Da un paso largo hacia adelante con una pierna y baja las caderas hasta que ambas rodillas formen un ángulo de 90 grados. <a href="https://example.com/video-zancadas" target="_blank">Ver video</a></p>
+                    </div>
+                </div>
+                <div class="exercise-card">
+                    <div class="image-placeholder">
+                        <span>Imagen de Fondos de Tríceps (ej. una persona haciendo fondos)</span>
+                    </div>
+                    <div class="exercise-content">
+                        <h4>Fondos de Tríceps</h4>
+                        <p>Aísla y fortalece los tríceps.</p>
+                        <p>Descripción detallada: Usa una silla o un banco. Coloca las manos detrás de ti y baja el cuerpo lentamente. <a href="https://example.com/video-fondos-triceps" target="_blank">Ver video</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sección de Rutinas en el Gimnasio -->
+    <section id="rutinas-gimnasio">
+        <div class="container">
+            <h2 class="section-title">Rutinas en el Gimnasio (Con Pesas)</h2>
+            <div class="exercise-grid">
+                <!-- Ejemplo de un ejercicio de Gimnasio: Press de Banca -->
+                <div class="exercise-card">
+                    <div class="image-placeholder">
+                        <span>Imagen de Press de Banca (ej. persona haciendo press de banca)</span>
+                    </div>
+                    <div class="exercise-content">
+                        <h4>Press de Banca</h4>
+                        <p>Ejercicio fundamental para pecho y tríceps.</p>
+                        <p>Descripción detallada: Acuéstate en un banco plano y baja la barra hasta que casi toque tu pecho. Empuja la barra hacia arriba. <a href="https://example.com/video-press-banca" target="_blank">Ver video</a></p>
+                    </div>
+                </div>
+                <!-- Agrega más ejercicios de gimnasio aquí -->
+                <div class="exercise-card">
+                    <div class="image-placeholder">
+                        <span>Imagen de Peso Muerto (ej. una persona haciendo peso muerto)</span>
+                    </div>
+                    <div class="exercise-content">
+                        <h4>Peso Muerto</h4>
+                        <p>Uno de los mejores ejercicios compuestos para todo el cuerpo.</p>
+                        <p>Descripción detallada: Con los pies a la anchura de los hombros, agáchate y levanta la barra manteniendo la espalda recta. <a href="https://example.com/video-peso-muerto" target="_blank">Ver video</a></p>
+                    </div>
+                </div>
+                <div class="exercise-card">
+                    <div class="image-placeholder">
+                        <span>Imagen de Sentadilla con Barra (ej. persona con barra)</span>
+                    </div>
+                    <div class="exercise-content">
+                        <h4>Sentadilla con Barra</h4>
+                        <p>El rey de los ejercicios para piernas.</p>
+                        <p>Descripción detallada: Coloca la barra sobre la parte superior de la espalda y baja lentamente en una posición de sentadilla. <a href="https://example.com/video-sentadilla-barra" target="_blank">Ver video</a></p>
+                    </div>
+                </div>
+                <div class="exercise-card">
+                    <div class="image-placeholder">
+                        <span>Imagen de Remo con Barra (ej. persona haciendo remo con barra)</span>
+                    </div>
+                    <div class="exercise-content">
+                        <h4>Remo con Barra</h4>
+                        <p>Construye una espalda ancha y densa.</p>
+                        <p>Descripción detallada: Inclinado hacia adelante, jala la barra hacia tu abdomen. <a href="https://example.com/video-remo-barra" target="_blank">Ver video</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sección de Blog -->
+    <section id="blog">
+        <div class="container">
+            <h2 class="section-title">Blog</h2>
+            <p>Aquí encontrarás artículos útiles sobre nutrición, entrenamiento y motivación.</p>
+            <article>
+                <h3>5 Errores Comunes al Empezar en el Gimnasio</h3>
+                <p>Descubre cómo evitar las trampas más frecuentes y acelerar tus resultados. Desde la técnica correcta hasta la importancia del descanso. <a href="#">Leer más...</a></p>
+            </article>
+            <article>
+                <h3>La Importancia de la Nutrición</h3>
+                <p>Tu cuerpo es una máquina; aprende a alimentarla correctamente para optimizar tu rendimiento. Explora la relación entre macro y micronutrientes. <a href="#">Leer más...</a></p>
+            </article>
+        </div>
+    </section>
+
+    <!-- Sección de Nosotros -->
+    <section id="nosotros">
+        <div class="container">
+            <h2 class="section-title">Nosotros</h2>
+            <p>Somos un equipo de entusiastas del fitness comprometidos a ayudarte en tu viaje hacia un estilo de vida más saludable. EnerGym nació de la pasión por el movimiento y la creencia de que el ejercicio debe ser accesible para todos, en cualquier momento y lugar.</p>
+            <p>Nuestra misión es proporcionarte las herramientas y el conocimiento necesarios para que cada entrenamiento sea efectivo y gratificante. Ya sea que busques perder peso, ganar músculo o simplemente mantenerte activo, estamos aquí para guiarte.</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 EnerGym. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            // Este script está vacío, pero es donde añadirías funcionalidades
+            // más complejas si las necesitaras, como una galería de imágenes
+            // o un formulario de contacto.
+            console.log("EnerGym - El sitio web está listo.");
+        });
+    </script>
+</body>
+</html>
+
